@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  height: 400px;
+  width: 300px;
+  border-radius: 20px;
+  border: 1.5px solid grey;
+}
+
+.hover-overlay {
+  background-color: hsla(217, 89%, 51%, 0.5);
+}
+
